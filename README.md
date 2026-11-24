@@ -15,7 +15,7 @@ Grocery inventory dataset
   ## Introduction
   This project described and evaluated the inventory of a grocery store.
 
-  ## Project Objective
+  ## Project Objectives
   This project is intended to provide insight into the inventory of a grocery store, as a means to influences future
   decision-making
 
