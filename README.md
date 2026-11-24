@@ -12,17 +12,19 @@ Grocery inventory dataset
 - [Recommendations](#recommendations)
 - [Conclusion](#conclusion)
 
-  ## Introduction
-  This project described and evaluated the inventory of a grocery store.
+## Introduction
+This project described and evaluated the inventory of a grocery store.
 
-  ## Project Objectives
+## Project Objectives
   This project is intended to provide insight into the inventory of a grocery store, as a means to influences future
   decision-making
 
 ## Description
- it was sourced from Kaggle.com. it comprises of 17 fields (columns) and 572 observations (rows). it consisted of 5 unanswered questions meant to give data insights for future decision making. 
+It was sourced from Kaggle.com. it comprises of 17 fields (columns) and 572 observations (rows). it consisted of 5 unanswered questions meant to give data insights for future decision making. 
+
 ## Data Cleaning
 Data cleaning was done using power query. simple text transformation were done and irrelevant columns were removed.
+
 ## KPIs
 Average Sales Volume
 Total Number of Suppliers
@@ -52,7 +54,7 @@ Seafood has the highest average stock quantity, while grains had the lowest aver
 3. Which products have the longest shelf life before expiration, and how does that impact sales?
    <img width="1017" height="575" alt="grocery2" src="https://github.com/user-attachments/assets/8eba218e-c13b-4e4c-9e25-d3dbf0ae8267" />
     There will be reduction in sales volume, because the product are mostly expired. hence sell off the expired product to local farms for feed or discard then.
-They should place a re-order and ensure they check expiration date before making purchase
+They should place a re-order and ensure they check expiration date before making purchase. 
 
 4. Which products are most likely to run out of stock based on last reorder levels?
    <img width="398" height="335" alt="grocery2 - Copy" src="https://github.com/user-attachments/assets/6cf60874-09fd-461d-a19a-ca3c016bfede" />
