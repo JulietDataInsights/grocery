@@ -50,6 +50,9 @@ Total Sales Volume
 4. The following products are most likely to run out of stock based on last reorder level.
    Rice flour, coconut,raw sugar, evaporated milk amongst others.
 
-5. The seasonal demand for different product categories is expected to be between 528 and -259. This indicates that a drop in demand would reduce sales by 259
+5. The seasonal demand for different product categories is expected to be between 528 and -259. This indicates that a drop in demand would reduce sales by 259.
+
+## Recommendation
+- Reorder quantity should be increased by 50% of the current reorder level. 
 
 
