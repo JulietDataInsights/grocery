@@ -61,6 +61,9 @@ Total Sales Volume
 
 
 ## Recommendation
-- Reorder quantity should be increased by 50% of the current reorder level. 
+- Reorder quantity should be increased by 50% of the current reorder level.
+
+  ## Conclusion
+  The management should consider an increase in the reorder level in other to avoid stock out and apply first in first out(FIFO) method to reduce the amount of expired product in the store.
 
 
