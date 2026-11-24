@@ -42,15 +42,29 @@ Total Sales Volume
 
 ## Key Findings
 1. The average stock quantity ranges from 50.86 to 62.23 (Grains & Pulses - Seafood).
+   <img width="218" height="102" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/b8865cef-d24f-4320-9fbe-671130bc0a75" />
+
 
 2. Katz, Twitterwire, Meevee, Quatz and Feedfire contributed the most to the product inventory.
+   <img width="385" height="385" alt="grocery3" src="https://github.com/user-attachments/assets/015a5c4a-f479-4231-ba08-9afd17a3534c" />
+
 
 3. The products with the longest shelf-life are Garlic, Banana, Rice Flour.
+  <img width="391" height="326" alt="grocery2" src="https://github.com/user-attachments/assets/330a76fe-6151-4118-a130-677bf7828ba3" />
+
+
 
 4. The following products are most likely to run out of stock based on last reorder level.
    Rice flour, coconut,raw sugar, evaporated milk amongst others.
+   <img width="398" height="335" alt="grocery2 - Copy" src="https://github.com/user-attachments/assets/c157ba1a-bd45-4915-98d0-a114bcb8d53a" />
+
+   
 
 5. The seasonal demand for different product categories is expected to be between 528 and -259. This indicates that a drop in demand would reduce sales by 259.
+   <img width="385" height="187" alt="grocery2 - Copy (2)" src="https://github.com/user-attachments/assets/38572cf5-7260-4c43-841a-3fdfd6d3cc36" />
+
+6. The optimal reorder level is 50% of the current reorder level.
+
 
 ## Recommendation
 - Reorder quantity should be increased by 50% of the current reorder level. 
